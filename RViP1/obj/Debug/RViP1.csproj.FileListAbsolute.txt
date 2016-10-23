@@ -1,0 +1,9 @@
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\bin\Debug\RViP1.exe.config
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\bin\Debug\RViP1.exe
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\bin\Debug\RViP1.pdb
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\obj\Debug\RViP1.csprojResolveAssemblyReference.cache
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\obj\Debug\RViP1.Form1.resources
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\obj\Debug\RViP1.Properties.Resources.resources
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\obj\Debug\RViP1.csproj.GenerateResource.Cache
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\obj\Debug\RViP1.exe
+c:\users\анна\documents\visual studio 2013\Projects\RViP1\RViP1\obj\Debug\RViP1.pdb
